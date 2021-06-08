@@ -1,0 +1,15 @@
+.container-carga {
+    margin: 10px;
+}
+
+.container-carga select {
+    padding: 5px;
+    padding-right: 50px;
+    align-items: center;
+    border: none;
+    border-bottom: 1px solid;
+    font-family: 'Open Sans', sans-serif;
+}
+.carga__label{
+    margin-right: 10px;
+}

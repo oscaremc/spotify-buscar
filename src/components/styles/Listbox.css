@@ -1,0 +1,10 @@
+.lista-boton button {
+    padding: 8px 12px;
+    margin: 4px 10px;
+    background-color: transparent;
+    border: 1px solid #1ed760;
+    border-radius: 5px;
+}
+.lista-boton {
+    margin: 0 5%;
+}
